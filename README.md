@@ -11,8 +11,12 @@
 
   As PMEs entram no mercado depois de investir uma certa quantia de dinheiro e, geralmente, precisam esperar um pouco para começar a aproveitar os benefícios. 
 
-  Já as startups fazem o contrário: entram no mercado para buscar capital e utilizam tecnologias digitais para crescer e encontrar financiamento.
+  Já as startups fazem o contrário: *`entram no mercado para buscar capital e utilizam tecnologias digitais para crescer e encontrar financiamento.`*
 
+- **Fase de StartUp:**
+
+   1. Ideação
+      - sdasd
 
 
 
