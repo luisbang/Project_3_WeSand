@@ -3,9 +3,9 @@
 
 **O que é StartUp**
 
-- Definição:
+- **Definição:**
    
-   Startup é um termo em inglês usado para definir as empresas que ainda são jovens ou recém-criadas e apresentam grandes possibilidades de crescimento.
+   Startup é um termo em inglês usado para definir *`as empresas que ainda são jovens ou recém-criadas e apresentam grandes possibilidades de crescimento.`*
 
   Uma startup é caracterizada por ser um negócio escalável e que cresce de uma forma muito mais rápida e eficiente em comparação a uma pequena ou média empresa tradicional (PME).
 
