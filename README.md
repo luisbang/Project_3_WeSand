@@ -15,10 +15,12 @@
 
 - **Fase de StartUp:**
 
-   1. Ideação
-      - sdasdadasd
+   1. Ideação:
+      - É a hora de tirar tudo do papel e colocar em prática. e testar suas hipóteses em relação ao seu cliente.
+      - É o momento de fazer a validação do seu negócio
 
-
+   2. Operação:
+      - asd
 
 
   `https://startupbase.com.br/home`
