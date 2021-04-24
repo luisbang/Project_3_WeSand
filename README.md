@@ -16,7 +16,7 @@
 - **Fase de StartUp:**
 
    1. Ideação
-      - sdasd
+      - sdasdadasd
 
 
 
