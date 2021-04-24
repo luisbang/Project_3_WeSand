@@ -30,15 +30,33 @@
    4. Scale-Up:
       - Representa aquelas empresas que obtém  crescimento de 20% em três anos consecutivos. Esse crescimento pode ser tanto em receita como no número de colaboradores.
   
-  
+     *Unicornio: As Startups avaliadas em pelo menos 1 bilhão de dólares
+![image](https://user-images.githubusercontent.com/79090589/115975961-923e2100-a53f-11eb-8382-6a654eb0e629.png)
+
+
+
+
 ## **Objetivo**
 - Analisar o crescimento da startup 
    - Em que ano mais surgiu as startups
    - O segmento que mais cresceu
      - Na fase Operação(onde os Angels procuram as startups), quais segmentos que ocupam mais?
-     - Qual segmento que mais cresceu durante a pandêmia?
-
+     - Qual segmento que mais cresceu durante a pândemia?
+- *Ofereceu um produto para cliente(Angels)*
   
+
+## **Resultado**
+<img src=https://user-images.githubusercontent.com/79090589/115975717-818cab80-a53d-11eb-8cb5-3a27e01849e4.png width="800" height="600">
+
+- 
+
+
+
+
+
+
+
+
 
 ## **Base de dados**
    - Fonte : `https://startupbase.com.br/home`
