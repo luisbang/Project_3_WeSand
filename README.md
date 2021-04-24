@@ -35,8 +35,8 @@
 - Analisar o crescimento da startup 
    - Em que ano mais surgiu as startups
    - O segmento que mais cresceu
-     - Na fase Operação(onde os Angels procuram as startups), quais segmentos que mais cresceram
-     - Qual segmento que mais cresceu durante a pandêmia
+     - Na fase Operação(onde os Angels procuram as startups), quais segmentos que ocupam mais?
+     - Qual segmento que mais cresceu durante a pandêmia?
 
   
 
