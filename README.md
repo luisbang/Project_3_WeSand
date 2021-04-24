@@ -5,10 +5,10 @@
 
 - Startup é um termo em inglês usado para definir as empresas que ainda são jovens ou recém-criadas e apresentam grandes possibilidades de crescimento.
 
-Uma startup é caracterizada por ser um negócio escalável e que cresce de uma forma muito mais rápida e eficiente em comparação a uma pequena ou média empresa tradicional (PME).
+  Uma startup é caracterizada por ser um negócio escalável e que cresce de uma forma muito mais rápida e eficiente em comparação a uma pequena ou média empresa tradicional (PME).
 
-As PMEs entram no mercado depois de investir uma certa quantia de dinheiro e, geralmente, precisam esperar um pouco para começar a aproveitar os benefícios. 
+  As PMEs entram no mercado depois de investir uma certa quantia de dinheiro e, geralmente, precisam esperar um pouco para começar a aproveitar os benefícios. 
 
-Já as startups fazem o contrário: entram no mercado para buscar capital e utilizam tecnologias digitais para crescer e encontrar financiamento.
+  Já as startups fazem o contrário: entram no mercado para buscar capital e utilizam tecnologias digitais para crescer e encontrar financiamento.
 
-`https://startupbase.com.br/home`
+  `https://startupbase.com.br/home`
