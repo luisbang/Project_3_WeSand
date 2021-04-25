@@ -36,6 +36,7 @@
 
 
 
+
 ## **Objetivo**
 - Analisar o crescimento da startup 
    - Em que ano mais surgiu as startups
@@ -48,14 +49,19 @@
 ## **Resultado**
 <img src=https://user-images.githubusercontent.com/79090589/115975717-818cab80-a53d-11eb-8cb5-3a27e01849e4.png width="800" height="600">
 
-- 
+- Os segmentos com ano de fundação 2000~2021
+   - Segmento Educação(277), Saúde e bem-estar(270)
+<img src=https://user-images.githubusercontent.com/79090589/115976031-388a2680-a540-11eb-8a59-426f69f0e898.png >
 
+- Os segmentos com ano de fundação 2000~2021 na fase Operação(onde os Angels procuram as startups)
+   - Segmento Saúde e bem-estar (101 startups)
 
+<img src=https://user-images.githubusercontent.com/79090589/115976142-4ee4b200-a541-11eb-91b1-ec15b28011fa.png>
 
+- Qual segmento que mais cresceu durante a pândemia
+   - Segmento Saúde e bem-estar(crescimento de 12% de 2019 para 2020)
 
-
-
-
+![image](https://user-images.githubusercontent.com/79090589/115976192-cdd9ea80-a541-11eb-8d17-b9aea0310b7b.png)
 
 
 ## **Base de dados**
