@@ -37,16 +37,17 @@
 
 
 
-## **Objetivo: Através dos análises, apresentar repectivas startups aos investidores anjos **
+## **Objetivo: Através das análises, apresentar respectivas startups aos investidores anjos**
 - Analisar o crescimento da startup 
    - O ano que surgiu mais startups
    - Ranking dos maiores segmentos de negócios
      - Status das fases das startups 
      - Maior segmento de negócio em cada fase de startups (Principalmente a fase de operação)
-     - Qual segmento ne negócio que mais cresceu durante a pândemia?
+     - Qual segmento de negócio que mais cresceu durante a pândemia?
   
 
 ## **Resultado**
+- Analisando o gráfico de quantidades de startups fundadas em cada ano (2000~2021), de 2015 à 2018 teve aumento notável das startups.
 <img src=https://user-images.githubusercontent.com/79090589/115975717-818cab80-a53d-11eb-8cb5-3a27e01849e4.png width="800" height="600">
 
 - Os segmentos com ano de fundação 2000~2021
@@ -68,9 +69,8 @@
 
 ## **Conclusão**
 - Apresentar e oferecer WeSand para Angels
-- **O que é WeSand?**
-   - 
-
+   - **O que é WeSand?**
+      - WeSand é uma startup que conecta startups com os investidores anjos, oferecendo suporte e apoio para as startups, em um espaço onde eles podem criar ou ampliar suas ideias.
 
 
 ## **Base de dados**
