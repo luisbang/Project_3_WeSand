@@ -22,7 +22,7 @@
    2. Operação:
       - Com a ideia de startup bem consolidada, é a hora de ir ao mercado, buscar clientes e expandir sua operação.
       - É a hora de buscar e apresentar o modelo sustentável para os investidores, provando  que a sua empresa tem potencial de crescimento.
-      - **O momento que os Angels(Investidores) buscam as startups para investir**
+      - **O momento que os Angels (Investidores) buscam as startups para investir**
 
    3. Tração:
       - Momento de maturidade da empresa, onde o objetivo principal é crescer. Aqui, o investimento em marketing e vendas aumenta, para fazer a solução conhecida e se fortalecer no mercado.
@@ -37,13 +37,13 @@
 
 
 
-## **Objetivo**
+## **Objetivo: Através dos análises, apresentar repectivas startups aos investidores anjos **
 - Analisar o crescimento da startup 
-   - Em que ano mais surgiu as startups
-   - O segmento que mais cresceu
-     - Na fase Operação(onde os Angels procuram as startups), quais segmentos que ocupam mais?
-     - Qual segmento que mais cresceu durante a pândemia?
-- *Ofereceu um produto para cliente(Angels)*
+   - O ano que surgiu mais startups
+   - Ranking dos maiores segmentos de negócios
+     - Status das fases das startups 
+     - Maior segmento de negócio em cada fase de startups (Principalmente a fase de operação)
+     - Qual segmento ne negócio que mais cresceu durante a pândemia?
   
 
 ## **Resultado**
