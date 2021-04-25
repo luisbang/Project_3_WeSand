@@ -21,7 +21,7 @@
 
    2. Operação:
       - Com a ideia de startup bem consolidada, é a hora de ir ao mercado, buscar clientes e expandir sua operação.
-      - É a hora de buscar e apresentar com modelo sustentável para investidores, mostrando que a sua empresa para em pé, tem futuro e quer crescer.
+      - É a hora de buscar e apresentar o modelo sustentável para os investidores, provando  que a sua empresa tem potencial de crescimento.
       - **A fase onde os angels(os investidores) procuram as startups.**
 
    3. Tração:
