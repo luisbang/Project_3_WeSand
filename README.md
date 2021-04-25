@@ -22,13 +22,13 @@
    2. Operação:
       - Com a ideia de startup bem consolidada, é a hora de ir ao mercado, buscar clientes e expandir sua operação.
       - É a hora de buscar e apresentar o modelo sustentável para os investidores, provando  que a sua empresa tem potencial de crescimento.
-      - **A fase onde os angels(os investidores) procuram as startups.**
+      - **O momento que os Angels(Investidores) buscam as startups para investir**
 
    3. Tração:
-      - Essa é a etapa de maturidade da empresa, onde o objetivo principal é crescer. Nesse momento, o investimento em marketing e vendas aumenta, para fazer a solução conhecida e se fortalecer no mercado.
+      - Momento de maturidade da empresa, onde o objetivo principal é crescer. Aqui, o investimento em marketing e vendas aumenta, para fazer a solução conhecida e se fortalecer no mercado.
 
    4. Scale-Up:
-      - Representa aquelas empresas que obtém  crescimento de 20% em três anos consecutivos. Esse crescimento pode ser tanto em receita como no número de colaboradores.
+      - Representa as empresas que obtém crescimento de 20% em três anos consecutivos. Esse crescimento pode ser tanto em receita como no número de colaboradores.
   
      *Unicornio: As Startups avaliadas em pelo menos 1 bilhão de dólares
 ![image](https://user-images.githubusercontent.com/79090589/115975961-923e2100-a53f-11eb-8382-6a654eb0e629.png)
