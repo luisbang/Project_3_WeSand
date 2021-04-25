@@ -13,7 +13,7 @@
 
   Já as startups fazem o contrário: *`entram no mercado para buscar capital e utilizam tecnologias digitais para crescer e encontrar financiamento.`*
 
-- **Fase de StartUp:**
+- **Fases:**
 
    1. Ideação:
       - É a hora de tirar tudo do papel e colocar em prática. e testar suas hipóteses em relação ao seu cliente.
