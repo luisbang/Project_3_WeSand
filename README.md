@@ -68,7 +68,7 @@
 
 
 ## **Conclusão**
-- Apresentar e oferecer WeSand para Angels
+- Apresentar e oferecer WeSand para os investidores anjos e para as startups jovens
    - **O que é WeSand?**
       - WeSand é uma startup que conecta startups com os investidores anjos, oferecendo suporte e apoio para as startups, em um espaço onde eles podem criar ou ampliar suas ideias.
       - Sand, signiifica a aréia em português. Em maioria dos parquinhos tem as aréias para amortizar a queda das crianças criando um ambiente seguro e divertido para as crianças brincarem livremente. Assim como essas crianças brincando no parquinho em cima das aréias, Nós, WeSand queremos ser as aréias para as startups jovens onde eles podem brincar com suas idéias num ambiente seguro. E mesmo caindo, vão cair em cima da aréia e daremos todo suporte e apoio.
