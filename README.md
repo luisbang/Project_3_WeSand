@@ -75,10 +75,8 @@
       - WeSand tem como o objetivo de ser um lugar para as startups onde podem trabalhar com sua equipe, ter mentorias durante o seu crescimento e participarem de eventos onde as startups apresentam seus projetos para investidores. Então desta forma surgiu a WeSand uma startup
       - O significado do nome tem duplo sentido. Send de enviar e Sand de aréia em português. Mas porque areia? Em maioria dos parquinhos tem aréia para amortecer a queda das crianças criando um ambiente seguro e divertido para brincarem livremente. Nós da WeSand queremos ser um lugar que incentiva e apoia startups jovens a inovarem em um ambiente seguro. E mesmo caindo, vão cair em cima da "aréia"  e daremos todo suporte e apoio. O resultado são startups mais preparadas e maduras para serem SEND(enviadas) para o mercado.
 
-
-
-## <Tableau Análise>
-- https://public.tableau.com/views/Project_WeSand_v2/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link
-
-## <Tableau WeSand Dashboard>
+## WeSand Platform
 - https://public.tableau.com/views/Project_WeSand_v2/Story1?:language=en&:display_count=y&:origin=viz_share_link
+
+## Tableau Análise
+- https://public.tableau.com/views/Project_WeSand_v2/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link
